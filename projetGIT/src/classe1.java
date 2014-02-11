@@ -12,6 +12,7 @@ public class classe1 {
  System.out.println("modif3");
  System.out.println("modif4");
  System.out.println("modif5");
+ System.out.println("TestB2");
 
 	}
 
